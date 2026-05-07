@@ -24,7 +24,9 @@ Sou um profissional com 8 anos de experiência em gestão de projetos de engenha
 
 ### 📊 Estatísticas de Especialista
 
-Abaixo, os dados que refletem minha dedicação constante ao stack **TypeScript/Node** nos últimos projetos:
+Atualmente, concentro o meu desenvolvimento em repositórios privados focados em soluções governamentais e SaaS de infraestrutura. Podes conferir a minha consistência de código no gráfico de contribuições abaixo.
+
+![Top Langs](https://img.shields.io/badge/Main_Stack-TypeScript_|_Node.js_|_React-blue?style=for-the-badge&logo=typescript)
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuricosssta&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,issues" />
