@@ -26,9 +26,8 @@ Sou um profissional com 8 anos de experiência em gestão de projetos de engenha
 
 Abaixo, os dados que refletem minha dedicação constante ao stack **TypeScript/Node** nos últimos projetos:
 
-<p align="left"
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuricosssta&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,issues" 
-  />
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuricosssta&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,issues" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuricosssta&layout=compact&langs_count=7&theme=radical" />
 </p>
 
