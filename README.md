@@ -5,7 +5,7 @@
 Sou um profissional com 8 anos de experiência em gestão de projetos de engenharia civil, transformando expertise analítica em soluções digitais escaláveis. Foco na criação de produtos que resolvem gargalos reais de produtividade, logística e gestão patrimonial.
 
 - 🚀 **Inovação:** Liderando a transformação digital na Diretoria Operacional de Barbacena através de um ecossistema SaaS governamental.
-- 🧠 **Especialidade:** Domínio absoluto do ecossistema **TypeScript**, com foco em NestJS, React/Next.js e Docker.
+- 🧠 **Especialidade:** Domínio do ecossistema **TypeScript**, com foco em NestJS, React/Next.js e Docker.
 - 📈 **Diferencial:** Visão de negócio e gestão de stakeholders (PMP) aplicada ao ciclo de vida de desenvolvimento de software.
 
 ---
