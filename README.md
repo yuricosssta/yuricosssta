@@ -1,4 +1,4 @@
-# Olá, eu sou o Yuri Costa 🏗️💻
+# Olá, eu sou o Yuri
 
 ### Software Engineer | Full Stack Developer | Especialista em SaaS B2B & Construtech
 
