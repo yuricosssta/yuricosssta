@@ -1,13 +1,12 @@
 # Olá, eu sou o Yuri
 
-### Software Engineer | Full Stack Developer
+### Engenheiro | Desenvolvedor Full Stack
 
-Sou um Engenheiro de Software com 8 anos de experiência em Engenharia Civil e Gestão de Projetos complexos. Utilizo essa bagagem analítica para arquitetar e desenvolver plataformas SaaS que resolvem gargalos reais de produtividade, logística e controle financeiro. Meu foco é entregar código resiliente, infraestrutura escalável e produtos que geram impacto direto.
+Sou Desenvolvedor Full Stack com 8 anos de experiência em Engenharia Civil e Gestão de Projetos em obras de infraestrutura urbana e edifícios de múltiplos andares. Utilizo essa bagagem de análise para arquitetar e desenvolver plataformas SaaS que resolvem gargalos de produtividade, logística e controle financeiro. Meu foco é entregar código resiliente, infraestrutura escalável e produtos que geram impacto direto.
 
-- 🚀 **B2B SaaS em Produção:** Desenvolvedor do *Sistema Cazuá*, plataforma de gestão de custos e obras com arquitetura multi-tenant, integração de e-mails transacionais e pipelines de agregação no MongoDB.
-- 💡 **B2C SaaS & Escalabilidade:** Atuando no desenvolvimento de uma plataforma EdTech focada em geração de conteúdos publicitários de forma estratégica auxiliados por IA.
-- 🧠 **Engenharia de Software:** Domínio do ecossistema **TypeScript**, focando em Clean Architecture com NestJS, interfaces reativas com Next.js/React e orquestração Docker.
-- 📈 **O Diferencial:** Visão de negócios. Não escrevo apenas código; projeto arquiteturas pensando em manutenibilidade, redução de custos de nuvem e segurança (Soft Deletes, JWT, validação rigorosa com Zod).
+Desenvolvo o Sistema Cazuá, plataforma de gestão de custos e obras com arquitetura multi-tenant, integração de e-mails transacionais e pipelines de agregação no MongoDB, , já em produção com empresas reais utilizando e fornecendo feedbacks. Atuo no desenvolvimento de uma plataforma EdTech focada em geração de conteúdos publicitários de forma estratégica auxiliados por IA em parceria com um influenciador digital.
+
+**Engenharia de Software:** Domínio do ecossistema **TypeScript**, focando em Clean Architecture com NestJS, interfaces reativas com Next.js/React e orquestração Docker.
 
 ---
 
